@@ -8,22 +8,29 @@ body {
     margin: 0;
 }
 
-#word-display {
+.word-display {
     font-size: 2em;
     margin-bottom: 20px;
 }
 
-#guess-input {
+.guess-input {
     font-size: 1em;
     padding: 5px;
     margin-bottom: 10px;
 }
 
-#submit-btn {
+.submit-btn {
     font-size: 1em;
     padding: 5px 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
 }
 
-#result {
+.result {
     margin-top: 20px;
+    font-weight: bold;
+    font-size: 1.2em;
+    text-align: center;
 }
