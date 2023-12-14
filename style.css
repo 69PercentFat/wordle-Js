@@ -1,0 +1,29 @@
+body {
+    font-family: 'Arial', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
+
+#word-display {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+#guess-input {
+    font-size: 1em;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+#submit-btn {
+    font-size: 1em;
+    padding: 5px 10px;
+}
+
+#result {
+    margin-top: 20px;
+}
