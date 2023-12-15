@@ -1,16 +1,21 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Wordle Game</title>
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
-    <div id="word-display" class="word-display"></div>
-    <input type="text" id="guess-input" class="guess-input" placeholder="Enter your guess">
-    <button id="submit-btn" class="submit-btn" onclick="checkGuess()">Submit Guess</button>
-    <div id="result" class="result"></div>
-    <script src="app.js"></script>
-</body>
+<html>
+    <head>
+        <title>Wordle</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale = 1.0">
+
+        <link rel="stylesheet" href="style.css">
+        <script src="app.js"></script>
+    </head>
+
+    <body>
+        <h1 id="title">Wordle</h1>
+        <hr>
+        <br>
+        <div id="board">
+        </div>
+
+        <br>
+        <h1 id="answer"></h1>
+    </body>
 </html>
