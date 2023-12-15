@@ -1,6 +1,7 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
+    /* background-color: rgb(255, 232, 232);brbb */
 }
 
 hr {
@@ -39,13 +40,13 @@ hr {
 }
 
 .correct {
-    background-color: #6AAA64;
+    background-color: #51804d;
     color: white;
     border-color: white;
 }
 
 .present {
-    background-color: #C9B458;
+    background-color: #ffd000;
     color: white;
     border-color: white;
 }
