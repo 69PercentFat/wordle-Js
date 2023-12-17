@@ -50,6 +50,6 @@ Contributions are welcome! If you find a bug or have an enhancement in mind, fee
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code.
+This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code..
 
 Happy Wordling with words from Uttar Pradesh and Delhi!
